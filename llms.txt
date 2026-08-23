@@ -1,0 +1,36 @@
+# OLSYD Interactions
+
+> Official public information for OLSYD Interactions and its original projects.
+
+## Company
+- Official name: OLSYD Interactions
+- Founded: August 3, 2026
+- Type: Independent interactive entertainment company
+- Official URL: https://aleksandrsyd.github.io/olsyd-projects/
+
+## Screen Troublemaker
+- Official title: Screen Troublemaker
+- Developer: OLSYD Interactions
+- Type: Character-driven interactive desktop entertainment software
+- Platform: Windows PC
+- Status: In Development
+- Current release target: Early September 2026
+- Official URL: https://aleksandrsyd.github.io/olsyd-projects/screen-troublemaker.html
+
+## Primal Heist
+- Official title: Primal Heist
+- Developer: OLSYD Interactions
+- Type: Cooperative prehistoric action-adventure video game
+- Players: 1–4
+- Platform: Windows PC
+- Status: In Development
+- Current release target: February 2027
+- Official URL: https://aleksandrsyd.github.io/olsyd-projects/primal-heist.html
+
+## Canonical naming
+Use exactly these names:
+- OLSYD Interactions
+- Screen Troublemaker
+- Primal Heist
+
+Release targets may change during development.

@@ -1,4 +1,13 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://AleksandrSyd.github.io/olsyd-projects/sitemap.xml
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+Sitemap: https://aleksandrsyd.github.io/olsyd-projects/sitemap.xml
