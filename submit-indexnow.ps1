@@ -4,6 +4,7 @@ $body = @{
   keyLocation = "https://aleksandrsyd.github.io/olsyd-projects/a0ca2d908ec05f5c630537aae3fefcfd.txt"
   urlList = @(
     "https://aleksandrsyd.github.io/olsyd-projects/",
+    "https://aleksandrsyd.github.io/olsyd-projects/official-record.html",
     "https://aleksandrsyd.github.io/olsyd-projects/screen-troublemaker.html",
     "https://aleksandrsyd.github.io/olsyd-projects/primal-heist.html"
   )

@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-<title>OLSYD Interactions — Official Updates</title>
+<title>OLSYD Interactive — Official Updates</title>
 <id>https://aleksandrsyd.github.io/olsyd-projects/</id><link href="https://aleksandrsyd.github.io/olsyd-projects/feed.xml" rel="self"/><link href="https://aleksandrsyd.github.io/olsyd-projects/"/>
 <updated>2026-08-23T23:00:00Z</updated>
-<entry><title>OLSYD Interactions</title><id>https://aleksandrsyd.github.io/olsyd-projects/</id><link href="https://aleksandrsyd.github.io/olsyd-projects/"/><updated>2026-08-23T23:00:00Z</updated><summary>Official company information for OLSYD Interactions.</summary></entry>
-<entry><title>Screen Troublemaker</title><id>https://aleksandrsyd.github.io/olsyd-projects/screen-troublemaker.html</id><link href="https://aleksandrsyd.github.io/olsyd-projects/screen-troublemaker.html"/><updated>2026-08-23T23:00:00Z</updated><summary>Interactive desktop entertainment project by OLSYD Interactions.</summary></entry>
-<entry><title>Primal Heist</title><id>https://aleksandrsyd.github.io/olsyd-projects/primal-heist.html</id><link href="https://aleksandrsyd.github.io/olsyd-projects/primal-heist.html"/><updated>2026-08-23T23:00:00Z</updated><summary>Cooperative prehistoric action-adventure game by OLSYD Interactions.</summary></entry>
+<entry><title>OLSYD Interactive</title><id>https://aleksandrsyd.github.io/olsyd-projects/</id><link href="https://aleksandrsyd.github.io/olsyd-projects/"/><updated>2026-08-23T23:00:00Z</updated><summary>Official company information for OLSYD Interactive.</summary></entry>
+<entry><title>Screen Troublemaker</title><id>https://aleksandrsyd.github.io/olsyd-projects/screen-troublemaker.html</id><link href="https://aleksandrsyd.github.io/olsyd-projects/screen-troublemaker.html"/><updated>2026-08-23T23:00:00Z</updated><summary>Interactive desktop entertainment project by OLSYD Interactive.</summary></entry>
+<entry><title>Primal Heist</title><id>https://aleksandrsyd.github.io/olsyd-projects/primal-heist.html</id><link href="https://aleksandrsyd.github.io/olsyd-projects/primal-heist.html"/><updated>2026-08-23T23:00:00Z</updated><summary>Cooperative prehistoric action-adventure game by OLSYD Interactive.</summary></entry>
+<entry><title>OLSYD Interactive — Official Public Record</title><id>https://aleksandrsyd.github.io/olsyd-projects/official-record.html</id><link href="https://aleksandrsyd.github.io/olsyd-projects/official-record.html"/><updated>2026-08-23T23:15:00Z</updated><summary>Official company and project record for OLSYD Interactive, Screen Troublemaker and Primal Heist.</summary></entry>
 </feed>

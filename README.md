@@ -1,4 +1,4 @@
-# OLSYD MAX INDEXING PACK
+# OLSYD Interactive — MAX INDEXING PACK
 
 Upload/replace the public website files in the existing `olsyd-projects` repository.
 
@@ -25,3 +25,8 @@ Submit sitemap:
 `https://aleksandrsyd.github.io/olsyd-projects/sitemap.xml`
 
 Then use URL Inspection → Request indexing for the three public pages.
+
+## Official public record
+- https://aleksandrsyd.github.io/olsyd-projects/official-record.html
+
+This page provides a concise, unique factual record of the company and both projects for humans and crawlers.
